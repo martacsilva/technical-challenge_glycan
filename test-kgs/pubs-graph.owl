@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ns1="https://placeholder.pt/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://placeholder.pt/PMID_35046949">
+    <rdf:type rdf:resource="https://placeholder.pt/publication"/>
+    <ns1:has_PMID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35046949</ns1:has_PMID>
+    <ns1:has_authors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheng Jing-Yan; Hung Jung-Tung; Lin Juway; Lo Fei-Yun; Huang Jing-Rong; Chiou Shih-Pin; Wang Ya-Hui; Lin Ruey-Jen; Wu Jen-Chine; Yu John; Yu Alice L</ns1:has_authors>
+    <ns1:published_in_journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frontiers in immunology</ns1:published_in_journal>
+    <ns1:publication_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2021</ns1:publication_year>
+    <ns1:has_PMCID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMC8761789</ns1:has_PMCID>
+    <ns1:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1016/j.jim.2009.06.008</ns1:DOI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://placeholder.pt/PMID_37670947">
+    <rdf:type rdf:resource="https://placeholder.pt/publication"/>
+    <ns1:has_PMID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37670947</ns1:has_PMID>
+    <ns1:has_authors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Machy Pierre; Mortier Erwan; Birklé Stéphane</ns1:has_authors>
+    <ns1:published_in_journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frontiers in pharmacology</ns1:published_in_journal>
+    <ns1:publication_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2023</ns1:publication_year>
+    <ns1:has_PMCID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMC10475612</ns1:has_PMCID>
+    <ns1:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.3389/fimmu.2023.1145706</ns1:DOI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://placeholder.pt/PMID_33326254">
+    <rdf:type rdf:resource="https://placeholder.pt/publication"/>
+    <ns1:has_PMID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33326254</ns1:has_PMID>
+    <ns1:has_authors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheung Irene Y; Cheung Nai-Kong V; Modak Shakeel; Mauguen Audrey; Feng Yi; Basu Ellen; Roberts Stephen S; Ragupathi Govind; Kushner Brian H</ns1:has_authors>
+    <ns1:published_in_journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Journal of clinical oncology : official journal of the American Society of Clinical Oncology</ns1:published_in_journal>
+    <ns1:publication_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2021</ns1:publication_year>
+    <ns1:has_PMCID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMC8253584</ns1:has_PMCID>
+    <ns1:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1200/JCO.20.01892</ns1:DOI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://placeholder.pt/PMID_37509200">
+    <rdf:type rdf:resource="https://placeholder.pt/publication"/>
+    <ns1:has_PMID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37509200</ns1:has_PMID>
+    <ns1:has_authors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matsumoto Yasuyuki; Ju Tongzhong</ns1:has_authors>
+    <ns1:published_in_journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancers</ns1:published_in_journal>
+    <ns1:publication_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2023</ns1:publication_year>
+    <ns1:has_PMCID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMC10377354</ns1:has_PMCID>
+    <ns1:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1016/j.ejca.2022.09.003</ns1:DOI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://placeholder.pt/test.owl">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+    <dc:title>Test Knowledge Graph</dc:title>
+    <dc:creator>Creator 1, Creator 2</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://placeholder.pt/PMID_37854601">
+    <rdf:type rdf:resource="https://placeholder.pt/publication"/>
+    <ns1:has_PMID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37854601</ns1:has_PMID>
+    <ns1:has_authors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lodewijk Iris; Dueñas Marta; Paramio Jesus M; Rubio Carolina</ns1:has_authors>
+    <ns1:published_in_journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frontiers in immunology</ns1:published_in_journal>
+    <ns1:publication_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2023</ns1:publication_year>
+    <ns1:has_PMCID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMC10579806</ns1:has_PMCID>
+    <ns1:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1016/j.canlet.2013.01.032</ns1:DOI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://placeholder.pt/PMID_39404403">
+    <rdf:type rdf:resource="https://placeholder.pt/publication"/>
+    <ns1:has_PMID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39404403</ns1:has_PMID>
+    <ns1:has_authors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanni Akeem; Bennett Andrew I; Huang Yifan; Gidi Isabella; Adeniyi Moyinoluwa; Nwaiwu Judith; Kang Min H; Keyel Michelle E; Gao ChongFeng; Reynolds C Patrick; Haab Brian; Mechref Yehia</ns1:has_authors>
+    <ns1:published_in_journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cells</ns1:published_in_journal>
+    <ns1:publication_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2024</ns1:publication_year>
+    <ns1:has_PMCID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMC11476222</ns1:has_PMCID>
+    <ns1:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1093/nar/gkaa1012</ns1:DOI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://placeholder.pt/PMID_28813678">
+    <rdf:type rdf:resource="https://placeholder.pt/publication"/>
+    <ns1:has_PMID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28813678</ns1:has_PMID>
+    <ns1:has_authors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sterner Eric; Peach Megan L; Nicklaus Marc C; Gildersleeve Jeffrey C</ns1:has_authors>
+    <ns1:published_in_journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell reports</ns1:published_in_journal>
+    <ns1:publication_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</ns1:publication_year>
+    <ns1:has_PMCID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMC5572838</ns1:has_PMCID>
+    <ns1:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1016/j.celrep.2017.07.050</ns1:DOI>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://placeholder.pt/PMID_36547975">
+    <rdf:type rdf:resource="https://placeholder.pt/publication"/>
+    <ns1:has_PMID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36547975</ns1:has_PMID>
+    <ns1:has_authors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cheung Irene Y; Mauguen Audrey; Modak Shakeel; Ragupathi Govind; Basu Ellen M; Roberts Stephen S; Kushner Brian H; Cheung Nai-Kong</ns1:has_authors>
+    <ns1:published_in_journal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JAMA oncology</ns1:published_in_journal>
+    <ns1:publication_year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2023</ns1:publication_year>
+    <ns1:has_PMCID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMC9936346</ns1:has_PMCID>
+    <ns1:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1001/jamaoncol.2018.4005</ns1:DOI>
+  </rdf:Description>
+</rdf:RDF>
