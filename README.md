@@ -8,6 +8,9 @@ This repository includes:
 - create-kg
   - `json_to_rdflib_graph.ipynb`*: converts a file of a glycan motif from GlyGen into KG (https://www.glygen.org/motif/GGM.000001)
   - `pubs-kg.ipynb`: converts PubMed_Complete_Report.csv into KG
+- test-kgs
+  - `pubs-graph.owl`: graph for publications in PubMed_Complete_Report.csv
+  - `motif_detail_GGM.000001.ttl`: graph for GGM.000001 motif
 - Figures
   - `graphdb_glycan-motif`: shows an example of a KG for a specific glycan motif in GraphDB
   - `graphdb_publications`: shows an example of a KG for a set of publications in GraphDB
